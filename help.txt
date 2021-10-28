@@ -1,0 +1,10 @@
+https://github.com/rsbh/express-typescript
+https://tsoa-community.github.io/docs/live-reloading.html#exposing-a-doc-endpoint
+https://tsoa-community.github.io/docs/live-reloading.html#installing-swagger-ui-express
+https://github.com/lukeautry/tsoa
+https://github.com/MakingSense/tsoa-api
+https://github.com/strongpauly/tsoa-starter
+https://githubmemory.com/repo/wclr/ts-node-dev/issues/253
+https://www.gitmemory.com/issue/wclr/ts-node-dev/253/828880501
+https://synaptiklabs.com/posts/express-typescript-mongo-part-4-swagger/
+https://synaptiklabs.com/?s=Express+%2B+TypeScript+%2B+Mongo
